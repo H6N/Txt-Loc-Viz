@@ -1,4 +1,4 @@
-# TxtLocViz
+# Txt-Loc-Viz
 Visualizing Locations in text
 
 ## Overview
@@ -24,7 +24,7 @@ Install geopy - https://pypi.python.org/pypi/geopy
 
 Get Google API key: https://developers.google.com/maps/documentation/javascript/get-api-key
 
-Download the Txt_Loc_Viz application code from github <link>
+Download the Txt-Loc-Viz application code from github <link>
 
 Unzip into a folder
 
