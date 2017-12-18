@@ -53,7 +53,7 @@ Please navigate your browser to localhost:5000/map and you can see the results t
 
 ## Team members contributions 
 
-# Hadas
+### Hadas
 Project idea and proposal, datasets, NLTK tokenizing, entity tagging, and chunking, Flask application (URL component), UI design and CSS, HTML and text visualization, integration, testing, bug fixes, documentation and presentation.
-# QuanXin
+### QuanXin
 Datasets, Flask application (text and file components), NLTK tokenizing, entity tagging, and chunking, Python code, Geopy geolocator, Google map API and map visualization, testing, bug fixes, documentation.
