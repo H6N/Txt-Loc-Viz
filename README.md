@@ -46,3 +46,14 @@ python Run27geo.py
 ```
 
 In a browser go to: localhost:5000 to use the application
+
+### In case the geolocator sends an error (connection blocked or timeout)
+Please navigate your browser to localhost:5000/map and you can see the results that were received until the service sends an error. This is a free service and it sometimes blocks users despite us following the terms of service.
+
+
+## Team members contributions 
+
+# Hadas
+Project idea and proposal, datasets, NLTK tokenizing, entity tagging, and chunking, Flask application (URL component), UI design and CSS, HTML and text visualization, integration, testing, bug fixes, documentation and presentation.
+# QuanXin
+Datasets, Flask application (text and file components), NLTK tokenizing, entity tagging, and chunking, Python code, Geopy geolocator, Google map API and map visualization, testing, bug fixes, documentation.
