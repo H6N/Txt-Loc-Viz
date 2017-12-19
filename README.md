@@ -48,7 +48,7 @@ python Run27geo.py
 In a browser go to: localhost:5000 to use the application
 
 ### In case the geolocator sends an error (connection blocked or timeout)
-Please navigate your browser to localhost:5000/map and you can see the results that were received until the service sends an error. This is a free service and it sometimes blocks users despite us following the terms of service.
+Please try again. If you still get an error, please navigate your browser to localhost:5000/map and you can see the results that were received until the service sent an error. (This is a free service and it sometimes blocks or times out despite us following the terms of service.)
 
 
 ## Team members contributions 
