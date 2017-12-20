@@ -18,11 +18,13 @@ Install Flask - http://flask.pocoo.org/docs/0.12/installation/#installation
 
 Install NLTK - http://www.nltk.org/install.html
 
-Install Stanford NER Tagger - http://www.nltk.org/api/nltk.tag.html#nltk.tag.stanford.StanfordNERTagger
+Install Stanford NER Tagger - https://nlp.stanford.edu/software/stanford-ner-2017-06-09.zip
+(unzip and note the folder where the tagger is installed for the update required below)
 
 Install geopy - https://pypi.python.org/pypi/geopy
 
 Get Google API key: https://developers.google.com/maps/documentation/javascript/get-api-key
+(note the API key you obtained for the update required below)
 
 Download the Txt-Loc-Viz application code from github <link>
 
